@@ -1,0 +1,9 @@
+Name: Servo Drive Control
+Number: REQ-001
+Author: Lavruk Denis
+Date of creation: March 28, 2024.
+Date of Last Change: March 28, 2024.
+Last Editor: Lavruk Denis
+Reviewer: Roman Moskalenko
+Content of the Requirement: This requirement provides the ability to control the servo motor through the hardware and software complex. It includes functionality such as setting the desired position, speed and acceleration of the servo motor. Control signals must be generated and transmitted accurately to ensure accurate motor control.
+Status: Open

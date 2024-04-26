@@ -1,0 +1,9 @@
+Name:	Servo Drive Specification
+Number:	HW_REQ-002
+Author:	Lavruk Denis
+Creation Date:	02.04.2024
+Last Modified Date:	02.04.2024
+Last Editor:    Lavruk Denis
+Reviewer:	Roman Moskalenko
+Requirement Body:	Detailed description of external sensor interface requirements, including sensor types, communication protocols, data acquisition rates, and other technical specifications.
+Requirement Status:	Open
